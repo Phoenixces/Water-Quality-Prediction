@@ -1,0 +1,25 @@
+Resources:
+
+>> Water Quality Indicators: https://www.intechopen.com/chapters/77416
+
+>> Standards:
+	> BIS Std: https://www.researchgate.net/figure/Standards-for-drinking-water-Bureau-of-Indian-Standards-BIS-2012-IS-10500_tbl2_275040536
+	> BIS Std/ WHO std: https://www.researchgate.net/figure/Comparison-of-stream-water-quality-with-BIS-and-WHO-standards_tbl4_288836960
+	> Parameters Limit & their affects: https://www.slideshare.net/indiawaterportal/indian-standard-for-drinking-water-as-per-bis-specifications-is-10500-2012-a-presentation-by-arghyam-23rd-feb
+
+>>Dataset Preparation:
+	> WATER QUALITY DATABASE,National Water Quality Monitoring Programme(NWMP): http://www.cpcbenvis.nic.in/water_quality_data.html
+	
+
+>> For Calculating WQI: https://www.youtube.com/watch?v=LtXfIYYb8F4
+
+>>Github:
+	> https://github.com/JatinSadhwani02/Water-Quality-Prediction-using-ML-technique/blob/master/Water%20Quality%20Prediction.ipynb
+	> https://github.com/Printutcarsh/Water-Quality-Prediction/blob/master/water%20quality%20prediction.ipynb
+	
+>> Papers:
+	> http://www.indiaenvironmentportal.org.in/files/water%20quality%20index.pdf
+	> https://www.researchgate.net/publication/337881191_Various_methods_for_calculating_the_water_quality_index
+	> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287781/#:~:text=The%20National%20Sanitation%20Foundation%20Water%20Quality%20Index%20(NSF%20WQI)%20incorporates,overall%20water%20quality%20%5B23%5D
+	> https://www.researchgate.net/publication/312144969_Evaluation_of_Water_Quality_Index_of_Water_Bodies_Channarayapatna_Taluk_Karnataka_Region_India
+	> 
