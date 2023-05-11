@@ -22,4 +22,6 @@ Resources:
 	> https://www.researchgate.net/publication/337881191_Various_methods_for_calculating_the_water_quality_index
 	> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287781/#:~:text=The%20National%20Sanitation%20Foundation%20Water%20Quality%20Index%20(NSF%20WQI)%20incorporates,overall%20water%20quality%20%5B23%5D
 	> https://www.researchgate.net/publication/312144969_Evaluation_of_Water_Quality_Index_of_Water_Bodies_Channarayapatna_Taluk_Karnataka_Region_India
-	> 
+	
+>> Link of my google colab
+	> https://drive.google.com/drive/folders/1KBv7fs4PtKOUwKegJvtFw-eXaMd20nx-?usp=share_link
